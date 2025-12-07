@@ -1,0 +1,12 @@
+{
+  "Version": 1,
+  "Hash": "JzYvijNN0KkurGwuOd3ZRwIx7x3lwYqXD49aIYoRwwk=",
+  "Source": "KickTheReact.Server",
+  "BasePath": "_content/KickTheReact.Server",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": [],
+  "Endpoints": []
+}

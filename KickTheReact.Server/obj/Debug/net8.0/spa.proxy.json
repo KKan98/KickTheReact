@@ -1,0 +1,10 @@
+{
+"SpaProxyServer": {
+"ServerUrl": "https://localhost:56018",
+"RedirectUrl": "",
+"LaunchCommand": "npm run dev",
+"WorkingDirectory": "C:\\Kacper_Workspace\\KickTheReact\\KickTheReact.Server\\..\\kickthereact.client",
+"MaxTimeoutInSeconds": "120",
+"KeepRunning": "false"
+}
+}
