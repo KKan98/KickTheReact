@@ -1,0 +1,36 @@
+
+# Visual Studio
+.vs/
+*.suo
+*.user
+*.userosscache
+*.sln.docstates
+
+
+# Build output for .NET backend
+KickTheReact.Server/bin/
+KickTheReact.Server/obj/
+
+# Build output
+bin/
+obj/
+*.dll
+*.exe
+*.pdb
+*.cache
+*.log
+
+# NuGet
+*.nupkg
+packages/
+
+# React / Node
+kickthereact.client/node_modules/
+kickthereact.client/build/
+kickthereact.client/.env
+
+# Backup files
+*.backup.json
+
+# Others
+Thumbs.db
